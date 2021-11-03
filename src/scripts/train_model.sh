@@ -1,0 +1,1 @@
+python train_model.py --max_epochs=100 --check_val_every_n_epoch=1 --learning_rate=0.0001
